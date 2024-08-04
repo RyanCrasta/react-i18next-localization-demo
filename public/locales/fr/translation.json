@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour bienvenue!",
+  "description": {
+    "line1": "Ceci est un article sur l'internationalisation",
+    "line2": "L'auteur de cet article est <1>{{authorName}}</1>"
+  }
+}
